@@ -1,4 +1,4 @@
-POKéDEX en Python
+# POKéDEX en Python
 
 Es una sencilla aplicación en la que el usuario mediante el ID de PokéDex o el nombre del Pokémon que desea buscar, le mostrara los datos del Pokémon junto a una imagen del mismo.
 
